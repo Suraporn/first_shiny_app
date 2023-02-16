@@ -1,0 +1,13 @@
+name: MyFirstApp
+title: MyFirstApp
+username:
+account: suraporn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8327750
+bundleId: 6852742
+url: https://suraporn.shinyapps.io/MyFirstApp/
+when: 1676528368.21479
+lastSyncTime: 1676528368.2148
+asMultiple: FALSE
+asStatic: FALSE
